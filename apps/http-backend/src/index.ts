@@ -5,4 +5,4 @@ import { prisma } from '@repo/db3/client'
 const app = express();
 app.use(express.json());
 
-app.listen(3000);
+app.listen(3001);
